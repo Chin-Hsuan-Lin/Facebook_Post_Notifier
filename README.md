@@ -1,6 +1,6 @@
 # Facebook Group Crawler with LINE Notify Integration
 
-This project provides a simple yet effective solution for monitoring specific Facebook groups for posts containing user-defined keywords and sending instant notifications through LINE Notify.
+This project provides a simple yet effective solution for monitoring specific Facebook groups for posts containing user-defined keywords and sending instant notifications through LINE Notify. Stay updated with the latest posts about housing or any other topics of interest without manually checking the group.
 ## Setup Instructions
 
 ### Step 1: ChromeDriver Installation
