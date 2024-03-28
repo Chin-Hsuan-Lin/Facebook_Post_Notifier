@@ -9,7 +9,7 @@ import requests
 import time
 import sys
 import os
-#==============開啟瀏覽器並導向清交二手拍===============
+#==============開啟瀏覽器並導向社團===============
 print("=========Initialize=========")
 options = webdriver.ChromeOptions()
 prefs = {
